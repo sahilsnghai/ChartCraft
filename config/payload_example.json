@@ -1,0 +1,633 @@
+{
+    "resultSet": [
+        [
+            "Southeast Asia",
+            59.796,
+            "Third Party Marketplace",
+            555.516
+        ],
+        [
+            "Central",
+            23.904,
+            "Social Media",
+            1076.004
+        ],
+        [
+            "EMEA",
+            53.07,
+            "Third Party Marketplace",
+            204.15
+        ],
+        [
+            "East",
+            19.824,
+            "Coupan site",
+            264.32
+        ],
+        [
+            "Southeast Asia",
+            -17.1258,
+            "Third Party Marketplace",
+            264.9942
+        ],
+        [
+            "Central Asia",
+            -63.54,
+            "Coupan site",
+            68.94
+        ],
+        [
+            "Southeast Asia",
+            29.436,
+            "Third Party Marketplace",
+            195.786
+        ],
+        [
+            "South",
+            1.999,
+            "Social Media",
+            31.984
+        ],
+        [
+            "Southeast Asia",
+            -137.349,
+            "Third Party Marketplace",
+            876.231
+        ],
+        [
+            "Central Asia",
+            10.74,
+            "Third Party Marketplace",
+            71.94
+        ],
+        [
+            "EMEA",
+            14.49,
+            "Direct through website",
+            51.84
+        ],
+        [
+            "Central",
+            28.08,
+            "Third Party Marketplace",
+            104.04
+        ],
+        [
+            "Central Asia",
+            48.36,
+            "Social Media",
+            118.2
+        ],
+        [
+            "North",
+            36.3,
+            "Direct through website",
+            93.1
+        ],
+        [
+            "Central Asia",
+            -11.58,
+            "Direct through website",
+            16.02
+        ],
+        [
+            "North",
+            6.96,
+            "Third Party Marketplace",
+            31.8
+        ],
+        [
+            "Central Asia",
+            10.56,
+            "Coupan site",
+            29.4
+        ],
+        [
+            "EMEA",
+            2.07,
+            "Social Media",
+            17.49
+        ],
+        [
+            "North",
+            4.62,
+            "Coupan site",
+            11.3
+        ],
+        [
+            "North",
+            5.3,
+            "Direct through website",
+            19.66
+        ],
+        [
+            "Central",
+            8.04,
+            "Direct through website",
+            40.26
+        ],
+        [
+            "Central Asia",
+            1.02,
+            "Social Media",
+            6.9
+        ],
+        [
+            "EMEA",
+            347.76,
+            "Coupan site",
+            870.24
+        ],
+        [
+            "South",
+            66.42,
+            "Direct through website",
+            665.55
+        ],
+        [
+            "North",
+            246.24,
+            "Direct through website",
+            1119.36
+        ],
+        [
+            "North Asia",
+            -229.08,
+            "Third Party Marketplace",
+            602.76
+        ],
+        [
+            "Central",
+            108.468,
+            "Third Party Marketplace",
+            514.188
+        ],
+        [
+            "Central",
+            -44.35904,
+            "Comparison website",
+            236.52096
+        ],
+        [
+            "Central",
+            -225.84,
+            "Direct through website",
+            331.92
+        ],
+        [
+            "South",
+            1.7904,
+            "Third Party Marketplace",
+            224.3504
+        ],
+        [
+            "EMEA",
+            138.06,
+            "Direct through website",
+            767.52
+        ],
+        [
+            "EMEA",
+            73.14,
+            "Third Party Marketplace",
+            318.03
+        ],
+        [
+            "Southeast Asia",
+            61.908,
+            "Third Party Marketplace",
+            282.948
+        ],
+        [
+            "Central",
+            81.702,
+            "Comparison website",
+            319.842
+        ],
+        [
+            "South",
+            28.98,
+            "Direct through website",
+            193.41
+        ],
+        [
+            "South",
+            -97.74,
+            "Third Party Marketplace",
+            254.88
+        ],
+        [
+            "North Asia",
+            -28.176,
+            "Coupan site",
+            160.704
+        ],
+        [
+            "North Asia",
+            1038.42,
+            "Social Media",
+            2472.66
+        ],
+        [
+            "EMEA",
+            44.16,
+            "Coupan site",
+            90.24
+        ],
+        [
+            "Central",
+            46.05,
+            "Third Party Marketplace",
+            153.6
+        ],
+        [
+            "North Asia",
+            2.9699999999999998,
+            "Third Party Marketplace",
+            149.34
+        ],
+        [
+            "West",
+            12.145199999999999,
+            "Coupan site",
+            41.88
+        ],
+        [
+            "South",
+            7.5,
+            "Third Party Marketplace",
+            54.0
+        ],
+        [
+            "South",
+            29.16,
+            "Direct through website",
+            73.08
+        ],
+        [
+            "Central",
+            -2.664,
+            "Comparison website",
+            59.616
+        ],
+        [
+            "West",
+            27.4856,
+            "Third Party Marketplace",
+            58.48
+        ],
+        [
+            "Central",
+            18.16,
+            "Comparison website",
+            38.68
+        ],
+        [
+            "Central",
+            -4.77,
+            "Third Party Marketplace",
+            39.33
+        ],
+        [
+            "EMEA",
+            19.56,
+            "Social Media",
+            49.02
+        ],
+        [
+            "North Asia",
+            8.94,
+            "Social Media",
+            33.3
+        ],
+        [
+            "EMEA",
+            5.01,
+            "Third Party Marketplace",
+            11.94
+        ],
+        [
+            "North",
+            0.88,
+            "Third Party Marketplace",
+            10.32
+        ],
+        [
+            "South",
+            2.34,
+            "Direct through website",
+            9.78
+        ],
+        [
+            "North Asia",
+            -33.3,
+            "Social Media",
+            48.96
+        ],
+        [
+            "Central",
+            10.26,
+            "Third Party Marketplace",
+            33.21
+        ],
+        [
+            "Central",
+            -3.64,
+            "Social Media",
+            7.02
+        ],
+        [
+            "Central",
+            213.6888,
+            "Third Party Marketplace",
+            821.88
+        ],
+        [
+            "Central Asia",
+            146.76,
+            "Third Party Marketplace",
+            524.28
+        ],
+        [
+            "East",
+            -559.356,
+            "Direct through website",
+            399.54
+        ],
+        [
+            "Central",
+            -533.7325,
+            "Third Party Marketplace",
+            304.99
+        ],
+        [
+            "Central",
+            111.774,
+            "Third Party Marketplace",
+            429.9
+        ],
+        [
+            "Central",
+            14.7582,
+            "Social Media",
+            196.776
+        ],
+        [
+            "Oceania",
+            5.7780000000000005,
+            "Third Party Marketplace",
+            131.868
+        ],
+        [
+            "Central",
+            -22.948,
+            "Coupan site",
+            200.795
+        ],
+        [
+            "EMEA",
+            177.96,
+            "Third Party Marketplace",
+            711.84
+        ],
+        [
+            "Central",
+            28.3095,
+            "Third Party Marketplace",
+            104.85
+        ],
+        [
+            "Central",
+            64.0,
+            "Third Party Marketplace",
+            457.7
+        ],
+        [
+            "Central",
+            45.3488,
+            "Third Party Marketplace",
+            161.96
+        ],
+        [
+            "Africa",
+            26.46,
+            "Coupan site",
+            191.1
+        ],
+        [
+            "Africa",
+            42.0,
+            "Coupan site",
+            200.52
+        ],
+        [
+            "East",
+            109.6113,
+            "Direct through website",
+            377.97
+        ],
+        [
+            "South",
+            -4.248,
+            "Social Media",
+            19.332
+        ],
+        [
+            "EMEA",
+            6.0,
+            "Social Media",
+            100.2
+        ],
+        [
+            "EMEA",
+            12.09,
+            "Direct through website",
+            109.95
+        ],
+        [
+            "Central",
+            20.1207,
+            "Social Media",
+            42.81
+        ],
+        [
+            "Oceania",
+            1.248,
+            "Third Party Marketplace",
+            29.268
+        ],
+        [
+            "North",
+            3.6,
+            "Social Media",
+            51.6
+        ],
+        [
+            "Oceania",
+            9.96,
+            "Coupan site",
+            34.56
+        ],
+        [
+            "EMEA",
+            12.24,
+            "Third Party Marketplace",
+            56.16
+        ],
+        [
+            "Central",
+            23.6529,
+            "Direct through website",
+            57.69
+        ],
+        [
+            "North",
+            10.32,
+            "Third Party Marketplace",
+            28.02
+        ],
+        [
+            "Caribbean",
+            31.47,
+            "Direct through website",
+            83.92
+        ],
+        [
+            "East",
+            8.4736,
+            "Third Party Marketplace",
+            42.368
+        ],
+        [
+            "Central",
+            15.3888,
+            "Third Party Marketplace",
+            32.06
+        ],
+        [
+            "Central",
+            -2.918,
+            "Coupan site",
+            46.688
+        ],
+        [
+            "East",
+            4.3176,
+            "Third Party Marketplace",
+            32.382
+        ],
+        [
+            "South",
+            -14.54,
+            "Direct through website",
+            12.36
+        ],
+        [
+            "EMEA",
+            12.12,
+            "Third Party Marketplace",
+            35.76
+        ],
+        [
+            "Central",
+            15.6,
+            "Direct through website",
+            37.2
+        ],
+        [
+            "EMEA",
+            24.24,
+            "Social Media",
+            51.63
+        ],
+        [
+            "East",
+            -14.5764,
+            "Direct through website",
+            64.784
+        ],
+        [
+            "Caribbean",
+            7.3872,
+            "Third Party Marketplace",
+            27.36
+        ],
+        [
+            "Africa",
+            0.51,
+            "Social Media",
+            26.43
+        ],
+        [
+            "Central",
+            4.1125,
+            "Third Party Marketplace",
+            13.16
+        ],
+        [
+            "Central",
+            6.2208,
+            "Social Media",
+            12.96
+        ],
+        [
+            "Central",
+            5.7594,
+            "Direct through website",
+            19.86
+        ],
+        [
+            "Central",
+            3.5529,
+            "Social Media",
+            21.864
+        ],
+        [
+            "Caribbean",
+            9.6632,
+            "Direct through website",
+            20.56
+        ],
+        [
+            "Central",
+            -4.818,
+            "Direct through website",
+            2.92
+        ],
+        [
+            "Central",
+            -6.5076,
+            "Third Party Marketplace",
+            3.8280000000000003
+        ]
+    ],
+    "headers": [
+        "Region",
+        "Profit",
+        "Channel",
+        "Sales"
+    ],
+    "configData": [
+        {
+            "type": "line",
+            "x": "Region",
+            "y": "Profit",
+            "aggregate": "sum",
+            "groupedOn": [
+                "Channel",
+                "Region"
+            ]
+        },
+        {
+            "type": "line",
+            "x": "Region",
+            "y": "Sales",
+            "aggregate": "sum",
+            "yopposite": true,
+            "groupedOn": [
+                "Channel",
+                "Region"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2950 @@
+{
+  "data": {
+    "discription": "2 dimension and a measure",
+    "headers": [
+      "Channel",
+      "Region",
+      "Sales"
+    ],
+    "resultSet": [
+      [
+        "Third Party Marketplace",
+        "Central",
+        1084168.462
+      ],
+      [
+        "Third Party Marketplace",
+        "South",
+        624704.395
+      ],
+      [
+        "Social Media",
+        "Central",
+        623449.363
+      ],
+      [
+        "Direct through website",
+        "Central",
+        614803.462
+      ],
+      [
+        "Third Party Marketplace",
+        "North",
+        457773.692
+      ],
+      [
+        "Coupan site",
+        "Central",
+        440429.778
+      ],
+      [
+        "Third Party Marketplace",
+        "Oceania",
+        401491.579
+      ],
+      [
+        "Direct through website",
+        "South",
+        367632.921
+      ],
+      [
+        "Social Media",
+        "South",
+        350102.104
+      ],
+      [
+        "Third Party Marketplace",
+        "Southeast Asia",
+        321016.89
+      ],
+      [
+        "Direct through website",
+        "North",
+        299141.42
+      ],
+      [
+        "Third Party Marketplace",
+        "EMEA",
+        297222.495
+      ],
+      [
+        "Third Party Marketplace",
+        "Central Asia",
+        277175.733
+      ],
+      [
+        "Third Party Marketplace",
+        "Africa",
+        272302.301
+      ],
+      [
+        "Third Party Marketplace",
+        "East",
+        261677.517
+      ],
+      [
+        "Social Media",
+        "North",
+        258850.957
+      ],
+      [
+        "Third Party Marketplace",
+        "West",
+        248219.706
+      ],
+      [
+        "Direct through website",
+        "Oceania",
+        238337.968
+      ],
+      [
+        "Coupan site",
+        "South",
+        229462.744
+      ],
+      [
+        "Social Media",
+        "Oceania",
+        226117.261
+      ],
+      [
+        "Social Media",
+        "Southeast Asia",
+        209266.077
+      ],
+      [
+        "Comparison website",
+        "Central",
+        202096.15
+      ],
+      [
+        "Coupan site",
+        "North",
+        197365.521
+      ],
+      [
+        "Direct through website",
+        "EMEA",
+        189085.792
+      ],
+      [
+        "Direct through website",
+        "North Asia",
+        186047.061
+      ],
+      [
+        "Direct through website",
+        "Southeast Asia",
+        185271.285
+      ],
+      [
+        "Social Media",
+        "EMEA",
+        184304.481
+      ],
+      [
+        "Social Media",
+        "Africa",
+        181395.552
+      ],
+      [
+        "Social Media",
+        "Central Asia",
+        180141.192
+      ],
+      [
+        "Social Media",
+        "North Asia",
+        178220.818
+      ],
+      [
+        "Coupan site",
+        "Oceania",
+        176896.441
+      ],
+      [
+        "Direct through website",
+        "Central Asia",
+        171067.631
+      ],
+      [
+        "Direct through website",
+        "Africa",
+        163862.919
+      ],
+      [
+        "Social Media",
+        "West",
+        155286.86
+      ],
+      [
+        "Social Media",
+        "East",
+        143612.398
+      ],
+      [
+        "Coupan site",
+        "Southeast Asia",
+        136461.524
+      ],
+      [
+        "Direct through website",
+        "West",
+        136338.347
+      ],
+      [
+        "Direct through website",
+        "East",
+        131985.724
+      ],
+      [
+        "Coupan site",
+        "Africa",
+        129710.226
+      ],
+      [
+        "Coupan site",
+        "East",
+        120726.444
+      ],
+      [
+        "Comparison website",
+        "South",
+        118396.666
+      ],
+      [
+        "Coupan site",
+        "EMEA",
+        116622.227
+      ],
+      [
+        "Third Party Marketplace",
+        "Caribbean",
+        115189.928
+      ],
+      [
+        "Coupan site",
+        "West",
+        112866.388
+      ],
+      [
+        "Coupan site",
+        "North Asia",
+        105254.921
+      ],
+      [
+        "Coupan site",
+        "Central Asia",
+        103815.252
+      ],
+      [
+        "Comparison website",
+        "North",
+        97947.967
+      ],
+      [
+        "Comparison website",
+        "Oceania",
+        96104.885
+      ],
+      [
+        "Social Media",
+        "Caribbean",
+        84932.018
+      ],
+      [
+        "Direct through website",
+        "Caribbean",
+        82038.544
+      ],
+      [
+        "Comparison website",
+        "EMEA",
+        66454.598
+      ],
+      [
+        "Comparison website",
+        "Africa",
+        62697.694
+      ],
+      [
+        "Comparison website",
+        "Southeast Asia",
+        60262.719
+      ],
+      [
+        "Comparison website",
+        "East",
+        54242.928
+      ],
+      [
+        "Comparison website",
+        "Central Asia",
+        53379.598
+      ],
+      [
+        "Comparison website",
+        "North Asia",
+        50553.85
+      ],
+      [
+        "Comparison website",
+        "West",
+        50275.482
+      ],
+      [
+        "Coupan site",
+        "Caribbean",
+        49537.336
+      ],
+      [
+        "Third Party Marketplace",
+        "Canada",
+        22250.794
+      ],
+      [
+        "Direct through website",
+        "Canada",
+        19886.449
+      ],
+      [
+        "Comparison website",
+        "Caribbean",
+        12400.819
+      ],
+      [
+        "Social Media",
+        "Canada",
+        8877.383
+      ],
+      [
+        "Coupan site",
+        "Canada",
+        8714.048
+      ],
+      [
+        "Comparison website",
+        "Canada",
+        1365.191
+      ]
+    ],
+    "configData": [
+      {
+        "type": "line",
+        "x": "Region",
+        "groupedOn": [
+          "Channel"
+        ],
+        "y": "Sales",
+        "zoness": {
+          "Coupan site": [
+            {
+              "value": 112866.388,
+              "color": "#eb45a799"
+            }
+          ],
+          "Region": [
+            {
+              "value": 785579,
+              "color": "#4583ba"
+            }
+          ]
+        },
+        "marker": {
+          "symbol": "cricle",
+          "radius": 2
+        },
+        "tooltip": {
+          "valuePrefix": "{{{{{",
+          "valueSuffix": "}}}}}"
+        }
+      },
+      {
+        "type": "Column",
+        "x": ["Sales"],
+        "xopposite":true,
+        "marker": {
+          "radius": 3,
+          "symbol": "cricle"
+        }
+      }
+      
+    ],
+    "updateConfig": {
+      "tooltip-animation-hello": false,
+      "xAxis-[0]-plotLines-[0]-label-text":"Label using Update Config key"
+    }
+  },
+  "data1": {
+    "discription": "1 each dimension, date dimension and a measure",
+    "headers": [
+      "Channel",
+      "Ship date year",
+      "Sales"
+    ],
+    "resultSet": [
+      [
+        "Third Party Marketplace",
+        "2019",
+        773921.49
+      ],
+      [
+        "Social Media",
+        "2019",
+        482829.974
+      ],
+      [
+        "Direct through website",
+        "2019",
+        466299.074
+      ],
+      [
+        "Coupan site",
+        "2019",
+        311130.704
+      ],
+      [
+        "Comparison website",
+        "2019",
+        166730.652
+      ],
+      [
+        "Third Party Marketplace",
+        "2020",
+        1006157.242
+      ],
+      [
+        "Social Media",
+        "2020",
+        602725.681
+      ],
+      [
+        "Direct through website",
+        "2020",
+        588393.455
+      ],
+      [
+        "Coupan site",
+        "2020",
+        461772.726
+      ],
+      [
+        "Comparison website",
+        "2020",
+        202449.442
+      ],
+      [
+        "Third Party Marketplace",
+        "2021",
+        1304159.158
+      ],
+      [
+        "Direct through website",
+        "2021",
+        738061.061
+      ],
+      [
+        "Social Media",
+        "2021",
+        736403.841
+      ],
+      [
+        "Coupan site",
+        "2021",
+        503052.348
+      ],
+      [
+        "Comparison website",
+        "2021",
+        256074.663
+      ],
+      [
+        "Third Party Marketplace",
+        "2022",
+        1543612.714
+      ],
+      [
+        "Direct through website",
+        "2022",
+        931812.655
+      ],
+      [
+        "Social Media",
+        "2022",
+        904809.283
+      ],
+      [
+        "Coupan site",
+        "2022",
+        611485.844
+      ],
+      [
+        "Comparison website",
+        "2022",
+        284705.689
+      ],
+      [
+        "Third Party Marketplace",
+        "2023",
+        76605.587
+      ],
+      [
+        "Direct through website",
+        "2023",
+        60933.278
+      ],
+      [
+        "Social Media",
+        "2023",
+        57787.684
+      ],
+      [
+        "Coupan site",
+        "2023",
+        40421.229
+      ],
+      [
+        "Comparison website",
+        "2023",
+        16218.099
+      ]
+    ],
+    "configData": [
+      {
+        "type": "line",
+        "x": "Ship date year",
+        "y": "Sales",
+        "color": {
+          "Ship date year": "#f35a33"
+        },
+        "aggregate": "sum",
+        "zones": {
+          "Ship date year": [
+            {
+              "value": 3,
+              "color": "#FFA500"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "data2": {
+    "discription": "a measure with a dimension",
+    "headers": [
+      "Ship date year",
+      "Sales"
+    ],
+    "resultSet": [
+      [
+        "2019",
+        2200911.894
+      ],
+      [
+        "2020",
+        2861498.546
+      ],
+      [
+        "2021",
+        3537751.071
+      ],
+      [
+        "2022",
+        4276426.186
+      ],
+      [
+        "2023",
+        251965.877
+      ]
+    ],
+    "configData": [
+      {
+        "type": "bar",
+        "x": "Ship date year",
+        "y": "Sales",
+        "color": {
+          "Ship date yer": "#D1DC1F"
+        },
+        "tooltip": {
+          "valuePrefix": "{{}}"
+        },
+        "zones": {
+          "Ship date year": [
+            {
+              "value": 3,
+              "color": "#FFA500"
+            }
+          ]
+        }
+      }
+    ],
+    "updateConfig": {
+      "tooltip-animation-[0]-hello": {
+        "animation": true
+      }
+    }
+  },
+  "data3": {
+    "discription": "a measure with a dimension",
+    "headers": [
+      "Quantity",
+      "Ship date year",
+      "Sales"
+    ],
+    "resultSet": [
+      [
+        2988.0,
+        "2023",
+        251965.877
+      ],
+      [
+        28068.0,
+        "2019",
+        2200911.894
+      ],
+      [
+        40011.0,
+        "2020",
+        2861498.546
+      ],
+      [
+        50473.0,
+        "2021",
+        3537751.071
+      ],
+      [
+        55243.0,
+        "2022",
+        4276426.186
+      ]
+    ],
+    "configData": [
+      {
+        "type": "area",
+        "x": "Ship date year",
+        "y": "Sales",
+        "colors": {
+          "Ship date year": "#D1DC1F"
+        },
+        "tooltips": {
+          "valuePrefix": "{{}}"
+        },
+        "zoness": {
+          "Ship date year": [
+            {
+              "value": 3,
+              "color": "#FFA500"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "data4": {
+    "discription": "three measures with aggregated values",
+    "headers": [
+      "Quantity",
+      "Profit",
+      "Sales"
+    ],
+    "resultSet": [
+      [
+        176783.0,
+        1560521.383,
+        13128553.574
+      ]
+    ],
+    "configData": [
+      {
+        "type": "bar",
+        "x": [
+          "Sales",
+          "Profit"
+        ]
+      }
+    ]
+  },
+  "data5": {
+    "discription": "three measures without aggregate value ",
+    "headers": [
+      "Sales",
+      "Shipping Cost",
+      "Profit"
+    ],
+    "resultSet": [
+      [
+        27444.629304,
+        29.44252395,
+        -2195.57034432
+      ],
+      [
+        17499.95,
+        349.07,
+        8399.976
+      ],
+      [
+        13999.96,
+        20.00054,
+        6719.9808
+      ],
+      [
+        13577.7212064,
+        55.741554,
+        4752.20242224
+      ],
+      [
+        12729.113631,
+        440.295237,
+        6109.97454288
+      ],
+      [
+        9892.74,
+        498.7,
+        4946.37
+      ],
+      [
+        9698.375754,
+        818.084286,
+        -4655.22036192
+      ],
+      [
+        9648.186534,
+        943.557336,
+        4823.838684
+      ],
+      [
+        9449.95,
+        655.61,
+        4630.4755
+      ],
+      [
+        9099.93,
+        516.91,
+        2365.9818
+      ],
+      [
+        8749.95,
+        17.83,
+        2799.984
+      ],
+      [
+        8484.451272,
+        501.64974,
+        3563.325513
+      ],
+      [
+        8399.976,
+        498.08,
+        1119.9968
+      ],
+      [
+        8159.952,
+        342.11,
+        -1359.992
+      ],
+      [
+        7958.58,
+        778.32,
+        3979.08
+      ],
+      [
+        7031.3206032,
+        12.535182,
+        436.42654524
+      ],
+      [
+        6999.96,
+        499.55,
+        2239.9872
+      ],
+      [
+        6945.6861558,
+        694.587285,
+        77.0368158000002
+      ],
+      [
+        6871.158801,
+        798.117705,
+        2542.229469
+      ],
+      [
+        6608.61099,
+        523.871199,
+        2511.206712
+      ],
+      [
+        6517.08,
+        28.74,
+        2476.44
+      ],
+      [
+        6439.8,
+        255.36,
+        2447.1
+      ],
+      [
+        6426.693252,
+        689.131935,
+        3148.682544
+      ],
+      [
+        6354.95,
+        581.12,
+        3177.475
+      ],
+      [
+        6303.911508,
+        257.928948,
+        1639.01699208
+      ],
+      [
+        6061.439385,
+        533.036187,
+        1745.6829048
+      ],
+      [
+        5951.035224,
+        440.258868,
+        1895.406804
+      ],
+      [
+        5912.2355625,
+        532.696743,
+        904.2242625
+      ],
+      [
+        5897.015136,
+        516.548907,
+        196.538076
+      ],
+      [
+        5785.02,
+        656.73,
+        404.73
+      ],
+      [
+        5759.964,
+        187.19,
+        -0.335999999999899
+      ],
+      [
+        5751.54,
+        353.85,
+        2817.99
+      ],
+      [
+        5737.5,
+        261.87,
+        630.99
+      ],
+      [
+        5726.16,
+        71.46,
+        -445.44
+      ],
+      [
+        5725.35,
+        302.61,
+        1602.99
+      ],
+      [
+        5724.54,
+        2.34,
+        2461.32
+      ],
+      [
+        5667.87,
+        658.35,
+        2097.03
+      ],
+      [
+        5609.7582264,
+        202.102533,
+        1745.0428104
+      ],
+      [
+        5508.81243,
+        613.751121,
+        2264.733999
+      ],
+      [
+        5486.67,
+        346.6,
+        2316.51
+      ],
+      [
+        5478.116994,
+        798.529887,
+        766.803996
+      ],
+      [
+        5451.3,
+        432.13,
+        2071.44
+      ],
+      [
+        5451.3,
+        320.27,
+        327.06
+      ],
+      [
+        5443.96,
+        567.95,
+        2504.2216
+      ],
+      [
+        5399.91,
+        254.03,
+        2591.9568
+      ],
+      [
+        5273.7,
+        730.91,
+        1898.4
+      ],
+      [
+        5244.84,
+        878.38,
+        996.48
+      ],
+      [
+        5220.551736,
+        380.844045,
+        2088.162504
+      ],
+      [
+        5211.12,
+        463.98,
+        1146.24
+      ],
+      [
+        5211.12,
+        404.97,
+        833.76
+      ]
+    ],
+    "configData": [
+      {
+        "type": "stacked line",
+        "x": [
+          "Sales",
+          "Profit",
+          "Shipping Cost"
+        ],
+        "marker": {
+          "radius": 3,
+          "symbol": "cricle"
+        }
+      }
+    ]
+  },
+  "data6": {
+    "discription": "2 dimensions and 2 measures ",
+    "headers": [
+      "Profit",
+      "City",
+      "State",
+      "Sales"
+    ],
+    "resultSet": [
+      [
+        -263.753,
+        "Bloomington",
+        "Illinois",
+        1546.876
+      ],
+      [
+        -266.223,
+        "Ekibastuz",
+        "Pavlodar",
+        157.527
+      ],
+      [
+        -266.514,
+        "Pistoia",
+        "Tuscany",
+        1051.266
+      ],
+      [
+        -266.528,
+        "Austin",
+        "Texas",
+        5665.394
+      ],
+      [
+        -267.912,
+        "Amasya",
+        "Amasya",
+        252.588
+      ],
+      [
+        -268.262,
+        "Skokie",
+        "Illinois",
+        1189.468
+      ],
+      [
+        -269.946,
+        "Menemen",
+        "Izmir",
+        252.324
+      ],
+      [
+        -272.439,
+        "Gaziemir",
+        "Izmir",
+        1469.983
+      ],
+      [
+        -276.071,
+        "Mezitli",
+        "Mersin",
+        314.643
+      ],
+      [
+        -277.103,
+        "Amersfoort",
+        "Utrecht",
+        711.751
+      ],
+      [
+        -279.118,
+        "Gujranwala",
+        "Punjab",
+        4100.253
+      ],
+      [
+        -279.724,
+        "Torbali",
+        "Izmir",
+        543.645
+      ],
+      [
+        -281.298,
+        "Leeuwarden",
+        "Friesland",
+        500.405
+      ],
+      [
+        -282.027,
+        "Manisa",
+        "Manisa",
+        626.524
+      ],
+      [
+        -284.983,
+        "Highland Park",
+        "Illinois",
+        3099.871
+      ],
+      [
+        -285.183,
+        "Gonaïves",
+        "Artibonite",
+        874.657
+      ],
+      [
+        -285.832,
+        "Acarigua",
+        "Portuguesa",
+        479.088
+      ],
+      [
+        -289.952,
+        "Solna",
+        "Stockholm",
+        383.932
+      ],
+      [
+        -290.488,
+        "Bahía Blanca",
+        "Provincia de Buenos Aires",
+        402.672
+      ],
+      [
+        -291.557,
+        "Maracay",
+        "Aragua",
+        993.743
+      ],
+      [
+        -295.83,
+        "Schiedam",
+        "South Holland",
+        479.16
+      ],
+      [
+        -295.986,
+        "Bahawalpur",
+        "Punjab",
+        1053.534
+      ],
+      [
+        -302.863,
+        "Maracaibo",
+        "Zulia",
+        2499.543
+      ],
+      [
+        -306.428,
+        "Guatire",
+        "Miranda",
+        510.912
+      ],
+      [
+        -310.96,
+        "Nashville",
+        "Tennessee",
+        8450.124
+      ],
+      [
+        -316.476,
+        "Antakya",
+        "Hatay",
+        481.344
+      ],
+      [
+        -317.478,
+        "Legnano",
+        "Lombardy",
+        934.572
+      ],
+      [
+        -318.324,
+        "Warrnambool",
+        "Victoria",
+        1328.834
+      ],
+      [
+        -318.576,
+        "Luohe",
+        "Henan",
+        2624.154
+      ],
+      [
+        -319.783,
+        "Owerri",
+        "Imo",
+        378.626
+      ],
+      [
+        -323.41,
+        "Marion",
+        "Ohio",
+        3525.666
+      ],
+      [
+        -332.995,
+        "Braga",
+        "Braga",
+        332.995
+      ],
+      [
+        -337.318,
+        "Quilmes",
+        "Provincia de Buenos Aires",
+        785.107
+      ],
+      [
+        -337.376,
+        "Afyon",
+        "Afyonkarahisar",
+        2065.917
+      ],
+      [
+        -337.999,
+        "Cleveland",
+        "Ohio",
+        8232.923
+      ],
+      [
+        -341.332,
+        "Adiyaman",
+        "Adiyaman",
+        518.357
+      ],
+      [
+        -341.475,
+        "Feira",
+        "Aveiro",
+        341.475
+      ],
+      [
+        -342.293,
+        "Jinja",
+        "Jinja",
+        221.884
+      ],
+      [
+        -345.483,
+        "Amarillo",
+        "Texas",
+        4414.846
+      ],
+      [
+        -348.647,
+        "Ajman",
+        "'Ajman",
+        219.007
+      ],
+      [
+        -349.788,
+        "Sapele",
+        "Delta",
+        194.292
+      ],
+      [
+        -349.912,
+        "Pomezia",
+        "Lazio",
+        748.933
+      ],
+      [
+        -351.896,
+        "Tamarac",
+        "Florida",
+        1413.51
+      ],
+      [
+        -353.728,
+        "Cuneo",
+        "Piedmont",
+        372.011
+      ],
+      [
+        -355.988,
+        "Charlotte",
+        "North Carolina",
+        14128.397
+      ],
+      [
+        -360.158,
+        "Mar del Plata",
+        "Provincia de Buenos Aires",
+        668.802
+      ],
+      [
+        -361.857,
+        "Shagamu",
+        "Ogun",
+        266.643
+      ],
+      [
+        -363.392,
+        "Qaraghandy",
+        "Qaraghandy",
+        284.014
+      ],
+      [
+        -374.808,
+        "Owo",
+        "Ondo",
+        242.622
+      ],
+      [
+        -381.165,
+        "Port Moresby",
+        "National Capital",
+        2876.175
+      ],
+      [
+        -382.94,
+        "Barquisimeto",
+        "Lara",
+        665.934
+      ],
+      [
+        -385.126,
+        "San Severo",
+        "Apulia",
+        1118.94
+      ],
+      [
+        -393.156,
+        "Bingol",
+        "Bingol",
+        519.984
+      ],
+      [
+        -400.365,
+        "Saint-Michel-sur-Orge",
+        "Ile-de-France",
+        1883.775
+      ],
+      [
+        -404.58,
+        "Bucheon",
+        "Gyeonggi",
+        855.78
+      ],
+      [
+        -405.168,
+        "Quixadá",
+        "Ceará",
+        438.672
+      ],
+      [
+        -406.668,
+        "Turgutlu",
+        "Manisa",
+        520.452
+      ],
+      [
+        -406.991,
+        "Sanliurfa",
+        "Sanliurfa",
+        430.316
+      ],
+      [
+        -411.063,
+        "Cherkasy",
+        "Cherkasy",
+        2040.32
+      ],
+      [
+        -414.422,
+        "Dunedin",
+        "Otago",
+        2763.148
+      ],
+      [
+        -415.261,
+        "Inegol",
+        "Bursa",
+        495.753
+      ],
+      [
+        -423.354,
+        "Reggio nell'Emilia",
+        "Emilia-Romagna",
+        8099.928
+      ],
+      [
+        -424.284,
+        "Treviglio",
+        "Lombardy",
+        771.336
+      ],
+      [
+        -424.297,
+        "Yaritagua",
+        "Yaracuy",
+        908.803
+      ],
+      [
+        -428.814,
+        "Umraniye",
+        "Istanbul",
+        401.856
+      ],
+      [
+        -430.548,
+        "Corum",
+        "Corum",
+        461.832
+      ],
+      [
+        -433.681,
+        "Malatya",
+        "Malatya",
+        580.898
+      ],
+      [
+        -436.881,
+        "Ulsan",
+        "Ulsan",
+        742.929
+      ],
+      [
+        -443.687,
+        "Cankaya",
+        "Ankara",
+        2736.717
+      ],
+      [
+        -443.709,
+        "Tyler",
+        "Texas",
+        347.206
+      ],
+      [
+        -445.784,
+        "Schiltigheim",
+        "Alsace",
+        2296.36
+      ],
+      [
+        -446.712,
+        "Varese",
+        "Lombardy",
+        724.248
+      ],
+      [
+        -452.549,
+        "Nha Trang",
+        "Khánh Hòa",
+        1233.121
+      ],
+      [
+        -453.105,
+        "Capelle aan den IJssel",
+        "South Holland",
+        609.345
+      ],
+      [
+        -454.928,
+        "Bacolod City",
+        "Western Visayas",
+        3473.465
+      ],
+      [
+        -458.145,
+        "Apeldoorn",
+        "Gelderland",
+        903.135
+      ],
+      [
+        -459.09,
+        "Ceyhan",
+        "Adana",
+        480.72
+      ],
+      [
+        -461.861,
+        "Bolu",
+        "Bolu",
+        513.727
+      ],
+      [
+        -463.537,
+        "Helsingborg",
+        "Skåne",
+        631.189
+      ],
+      [
+        -470.116,
+        "Carrollton",
+        "Texas",
+        2230.091
+      ],
+      [
+        -471.621,
+        "Ilesha",
+        "Osun",
+        254.411
+      ],
+      [
+        -473.268,
+        "Tarsus",
+        "Mersin",
+        460.392
+      ],
+      [
+        -474.948,
+        "Baruta",
+        "Miranda",
+        813.072
+      ],
+      [
+        -479.38,
+        "Medina",
+        "Al Madinah",
+        7439.897
+      ],
+      [
+        -479.591,
+        "Valle de La Pascua",
+        "Guárico",
+        776.529
+      ],
+      [
+        -484.008,
+        "Waitakere",
+        "Auckland",
+        4316.401
+      ],
+      [
+        -485.829,
+        "Chincha Alta",
+        "Ica",
+        1007.091
+      ],
+      [
+        -491.184,
+        "Elazig",
+        "Elazig",
+        620.7
+      ],
+      [
+        -500.161,
+        "Esenyurt",
+        "Istanbul",
+        523.584
+      ],
+      [
+        -515.856,
+        "Kozan",
+        "Adana",
+        1119.984
+      ],
+      [
+        -525.285,
+        "Sittard",
+        "Limburg",
+        893.355
+      ],
+      [
+        -535.035,
+        "Kahramanmaras",
+        "Kahramanmaras",
+        688.072
+      ],
+      [
+        -536.128,
+        "Oswego",
+        "Illinois",
+        321.978
+      ],
+      [
+        -537.808,
+        "Lucca",
+        "Tuscany",
+        2394.605
+      ],
+      [
+        -540.332,
+        "Waco",
+        "Texas",
+        676.266
+      ],
+      [
+        -541.593,
+        "Balikesir",
+        "Balikesir",
+        746.593
+      ],
+      [
+        -541.98,
+        "Corlu",
+        "Tekirdag",
+        512.82
+      ],
+      [
+        -546.888,
+        "Calamba",
+        "Calabarzon",
+        1314.795
+      ],
+      [
+        -548.796,
+        "Registro",
+        "São Paulo",
+        799.464
+      ],
+      [
+        -548.988,
+        "Greenville",
+        "North Carolina",
+        2117.83
+      ],
+      [
+        -551.208,
+        "Ravenna",
+        "Emilia-Romagna",
+        4740.762
+      ],
+      [
+        -551.975,
+        "El Progreso",
+        "Yoro",
+        1690.19
+      ],
+      [
+        -560.385,
+        "Spijkenisse",
+        "South Holland",
+        894.225
+      ],
+      [
+        -562.719,
+        "Onitsha",
+        "Anambra",
+        459.853
+      ],
+      [
+        -567.892,
+        "Yuma",
+        "Arizona",
+        968.242
+      ],
+      [
+        -579.46,
+        "Pekanbaru",
+        "Riau",
+        3934.311
+      ],
+      [
+        -580.951,
+        "Diyarbakir",
+        "Diyarbakir",
+        919.672
+      ],
+      [
+        -587.332,
+        "Comodoro Rivadavia",
+        "Chubut",
+        1548.592
+      ],
+      [
+        -590.49,
+        "Van",
+        "Van",
+        718.74
+      ],
+      [
+        -596.519,
+        "Mesa",
+        "Arizona",
+        4178.692
+      ],
+      [
+        -601.542,
+        "Iskenderun",
+        "Hatay",
+        550.548
+      ],
+      [
+        -612.432,
+        "Klagenfurt",
+        "Carinthia",
+        5234.462
+      ],
+      [
+        -620.017,
+        "Cainta",
+        "Calabarzon",
+        2363.747
+      ],
+      [
+        -625.525,
+        "San Justo",
+        "Santa Fe",
+        1548.639
+      ],
+      [
+        -628.424,
+        "Pucallpa",
+        "Ucayali",
+        1433.316
+      ],
+      [
+        -628.631,
+        "Lund",
+        "Skåne",
+        756.771
+      ],
+      [
+        -630.366,
+        "Como",
+        "Lombardy",
+        1934.904
+      ],
+      [
+        -632.428,
+        "Apodaca",
+        "Nuevo León",
+        6319.047
+      ],
+      [
+        -632.923,
+        "Lorain",
+        "Ohio",
+        2015.111
+      ],
+      [
+        -639.768,
+        "Osmaniye",
+        "Osmaniye",
+        655.418
+      ],
+      [
+        -647.25,
+        "Pavlodar",
+        "Pavlodar",
+        427.873
+      ],
+      [
+        -647.805,
+        "Sargodha",
+        "Punjab",
+        1157.805
+      ],
+      [
+        -649.76,
+        "Pasig",
+        "National Capital",
+        2294.685
+      ],
+      [
+        -662.808,
+        "Alanya",
+        "Antalya",
+        666.732
+      ],
+      [
+        -663.061,
+        "Landskrona",
+        "Skåne",
+        1841.344
+      ],
+      [
+        -663.646,
+        "Multan",
+        "Punjab",
+        2289.906
+      ],
+      [
+        -666.594,
+        "Tivoli",
+        "Lazio",
+        765.216
+      ],
+      [
+        -666.86,
+        "Aubervilliers",
+        "Ile-de-France",
+        4643.291
+      ],
+      [
+        -668.42,
+        "Rosario",
+        "Santa Fe",
+        3019.141
+      ],
+      [
+        -668.939,
+        "Troy",
+        "Ohio",
+        4249.339
+      ],
+      [
+        -671.055,
+        "San Juan",
+        "San Juan",
+        1636.085
+      ],
+      [
+        -673.055,
+        "Temirtau",
+        "Qaraghandy",
+        496.841
+      ],
+      [
+        -674.64,
+        "Coimbra",
+        "Coimbra",
+        1673.64
+      ],
+      [
+        -675.067,
+        "Porto",
+        "Porto",
+        1324.649
+      ],
+      [
+        -677.058,
+        "Deventer",
+        "Overijssel",
+        1929.822
+      ],
+      [
+        -677.676,
+        "Concord",
+        "North Carolina",
+        11454.696
+      ],
+      [
+        -681.032,
+        "Damaturu",
+        "Yobe",
+        531.774
+      ],
+      [
+        -682.74,
+        "Doetinchem",
+        "Gelderland",
+        744.06
+      ],
+      [
+        -698.532,
+        "Bolívar",
+        "Bolivar",
+        4574.855
+      ],
+      [
+        -700.101,
+        "Pontes e Lacerda",
+        "Mato Grosso",
+        4413.63
+      ],
+      [
+        -709.488,
+        "Buca",
+        "Izmir",
+        627.432
+      ],
+      [
+        -713.415,
+        "Moncalieri",
+        "Piedmont",
+        868.065
+      ],
+      [
+        -716.05,
+        "Amstelveen",
+        "North Holland",
+        1122.115
+      ],
+      [
+        -716.44,
+        "Ibb",
+        "Ibb",
+        429.838
+      ],
+      [
+        -728.648,
+        "Pilar",
+        "Alagoas",
+        862.581
+      ],
+      [
+        -743.76,
+        "Kokshetau",
+        "Aqmola",
+        528.57
+      ],
+      [
+        -750.366,
+        "Igdir",
+        "Igdir",
+        1004.184
+      ],
+      [
+        -752.765,
+        "Caloocan",
+        "National Capital",
+        9676.625
+      ],
+      [
+        -752.937,
+        "Changwon",
+        "Gyeongsangnam",
+        2481.303
+      ],
+      [
+        -756.803,
+        "La Plata",
+        "Provincia de Buenos Aires",
+        1799.852
+      ],
+      [
+        -761.032,
+        "Denizli",
+        "Denizli",
+        1415.401
+      ],
+      [
+        -773.168,
+        "Uppsala",
+        "Uppsala",
+        1359.701
+      ],
+      [
+        -788.847,
+        "Papakura",
+        "Auckland",
+        2989.945
+      ],
+      [
+        -795.248,
+        "Ras al Khaymah",
+        "Ra's Al Khaymah",
+        593.895
+      ],
+      [
+        -802.189,
+        "Marano di Napoli",
+        "Campania",
+        2183.243
+      ],
+      [
+        -802.978,
+        "Konya",
+        "Konya",
+        973.521
+      ],
+      [
+        -810.736,
+        "São Miguel dos Campos",
+        "Alagoas",
+        6401.683
+      ],
+      [
+        -813.99,
+        "Haninge",
+        "Stockholm",
+        1497.03
+      ],
+      [
+        -819.903,
+        "Qostanay",
+        "Qostanay",
+        652.167
+      ],
+      [
+        -821.848,
+        "Bethlehem",
+        "Pennsylvania",
+        2643.982
+      ],
+      [
+        -822.388,
+        "Minna",
+        "Niger",
+        455.441
+      ],
+      [
+        -823.407,
+        "Tampa",
+        "Florida",
+        6442.191
+      ],
+      [
+        -837.372,
+        "Traralgon",
+        "Victoria",
+        6817.068
+      ],
+      [
+        -842.229,
+        "Harare",
+        "Harare",
+        642.24
+      ],
+      [
+        -845.906,
+        "Nazilli",
+        "Aydin",
+        1167.449
+      ],
+      [
+        -848.873,
+        "Araranguá",
+        "Santa Catarina",
+        897.625
+      ],
+      [
+        -859.24,
+        "Puerto La Cruz",
+        "Anzoátegui",
+        1196.707
+      ],
+      [
+        -862.71,
+        "Nelson",
+        "Nelson",
+        2859.21
+      ],
+      [
+        -866.712,
+        "Antipolo",
+        "Calabarzon",
+        7482.062
+      ],
+      [
+        -869.06,
+        "Saint-Denis",
+        "Ile-de-France",
+        3556.056
+      ],
+      [
+        -876.065,
+        "Pueblo",
+        "Colorado",
+        1650.686
+      ],
+      [
+        -889.224,
+        "Eskisehir",
+        "Eskisehir",
+        934.716
+      ],
+      [
+        -889.77,
+        "Almaty",
+        "Almaty City",
+        602.669
+      ],
+      [
+        -892.563,
+        "Oosterhout",
+        "North Brabant",
+        1987.319
+      ],
+      [
+        -895.186,
+        "Rawalpindi",
+        "Punjab",
+        4371.882
+      ],
+      [
+        -912.786,
+        "Geelong",
+        "Victoria",
+        30149.925
+      ],
+      [
+        -916.693,
+        "Córdoba",
+        "Córdoba",
+        7403.59
+      ],
+      [
+        -930.69,
+        "Odense",
+        "South Denmark",
+        2635.329
+      ],
+      [
+        -934.556,
+        "Nacka",
+        "Stockholm",
+        1693.543
+      ],
+      [
+        -941.552,
+        "Miami",
+        "Florida",
+        6941.542
+      ],
+      [
+        -949.791,
+        "Haarlem",
+        "North Holland",
+        1351.262
+      ],
+      [
+        -956.377,
+        "Trabzon",
+        "Trabzon",
+        1419.412
+      ],
+      [
+        -956.684,
+        "Colorado Springs",
+        "Colorado",
+        3694.009
+      ],
+      [
+        -959.378,
+        "Guacara",
+        "Carabobo",
+        917.082
+      ],
+      [
+        -966.68,
+        "Presidencia Roque Sáenz Peña",
+        "Chaco",
+        863.76
+      ],
+      [
+        -986.096,
+        "Maiduguri",
+        "Borno",
+        6117.791
+      ],
+      [
+        -991.245,
+        "Astana",
+        "Astana",
+        609.885
+      ],
+      [
+        -1010.52,
+        "Kirsehir",
+        "Kirsehir",
+        1145.04
+      ],
+      [
+        -1014.316,
+        "Brumado",
+        "Bahia",
+        950.904
+      ],
+      [
+        -1021.968,
+        "Gothenburg",
+        "Västra Götaland",
+        2683.032
+      ],
+      [
+        -1054.401,
+        "Foggia",
+        "Apulia",
+        4052.646
+      ],
+      [
+        -1055.353,
+        "Clarksville",
+        "Tennessee",
+        2217.73
+      ],
+      [
+        -1060.963,
+        "Mamak",
+        "Ankara",
+        1443.556
+      ],
+      [
+        -1091.58,
+        "Pirapora",
+        "Minas Gerais",
+        1218.193
+      ],
+      [
+        -1106.346,
+        "San Luis",
+        "San Luis",
+        2998.559
+      ],
+      [
+        -1106.942,
+        "Bauchi",
+        "Bauchi",
+        690.598
+      ],
+      [
+        -1111.279,
+        "Le Plessis-Robinson",
+        "Ile-de-France",
+        5003.616
+      ],
+      [
+        -1126.55,
+        "Naples",
+        "Campania",
+        11878.358
+      ],
+      [
+        -1132.14,
+        "Quetta",
+        "Baluchistan",
+        1901.19
+      ],
+      [
+        -1151.967,
+        "Rockford",
+        "Illinois",
+        3227.96
+      ],
+      [
+        -1158.596,
+        "Knoxville",
+        "Tennessee",
+        4008.601
+      ],
+      [
+        -1161.162,
+        "Turkmenabat",
+        "Lebap",
+        644.958
+      ],
+      [
+        -1162.676,
+        "Kayseri",
+        "Kayseri",
+        1689.582
+      ],
+      [
+        -1195.306,
+        "Gaziantep",
+        "Gaziantep",
+        1418.559
+      ],
+      [
+        -1224.291,
+        "Choloma",
+        "Cortés",
+        7397.314
+      ],
+      [
+        -1250.64,
+        "Antalya",
+        "Antalya",
+        1870.388
+      ],
+      [
+        -1252.818,
+        "Bandirma",
+        "Balikesir",
+        1526.892
+      ],
+      [
+        -1276.064,
+        "Round Rock",
+        "Texas",
+        4949.159
+      ],
+      [
+        -1288.44,
+        "Jos",
+        "Plateau",
+        783.717
+      ],
+      [
+        -1296.734,
+        "Ponte Nova",
+        "Minas Gerais",
+        1672.278
+      ],
+      [
+        -1306.007,
+        "Hardenberg",
+        "Overijssel",
+        1390.936
+      ],
+      [
+        -1323.468,
+        "Batman",
+        "Batman",
+        1190.292
+      ],
+      [
+        -1329.438,
+        "Mardin",
+        "Mardin",
+        1569.252
+      ],
+      [
+        -1354.709,
+        "Surubim",
+        "Pernambuco",
+        1500.981
+      ],
+      [
+        -1382.017,
+        "Vassouras",
+        "Rio de Janeiro",
+        1909.326
+      ],
+      [
+        -1395.948,
+        "Nieuwegein",
+        "Utrecht",
+        3173.292
+      ],
+      [
+        -1410.953,
+        "Aba",
+        "Abia",
+        947.868
+      ],
+      [
+        -1414.902,
+        "Baguio City",
+        "Cordillera",
+        6052.731
+      ],
+      [
+        -1431.225,
+        "Rotterdam",
+        "South Holland",
+        2404.455
+      ],
+      [
+        -1433.407,
+        "Chitungwiza",
+        "Harare",
+        770.884
+      ],
+      [
+        -1469.595,
+        "Sakai",
+        "Gunma",
+        4157.745
+      ],
+      [
+        -1474.44,
+        "Amadora",
+        "Lisboa",
+        6101.535
+      ],
+      [
+        -1500.723,
+        "Gisborne",
+        "Gisborne",
+        1461.412
+      ],
+      [
+        -1506.561,
+        "Dresden",
+        "Saxony",
+        2106.214
+      ],
+      [
+        -1509.067,
+        "Hobart",
+        "Tasmania",
+        13221.674
+      ],
+      [
+        -1519.147,
+        "San Francisco de Macorís",
+        "Duarte",
+        6987.17
+      ],
+      [
+        -1532.677,
+        "Arraiján",
+        "Panama",
+        4718.816
+      ],
+      [
+        -1537.761,
+        "Islamabad",
+        "F.C.T.",
+        2921.409
+      ],
+      [
+        -1548.333,
+        "Liaoyang",
+        "Liaoning",
+        7618.547
+      ],
+      [
+        -1554.759,
+        "Santiago de los Caballeros",
+        "Santiago",
+        13026.368
+      ],
+      [
+        -1557.146,
+        "Memphis",
+        "Tennessee",
+        5451.842
+      ],
+      [
+        -1581.987,
+        "Ashgabat",
+        "Ashgabat",
+        876.232
+      ],
+      [
+        -1592.929,
+        "Busan",
+        "Busan",
+        2507.352
+      ],
+      [
+        -1666.923,
+        "Calabar",
+        "Cross River",
+        937.197
+      ],
+      [
+        -1669.839,
+        "Bagcilar",
+        "Istanbul",
+        2043.868
+      ],
+      [
+        -1676.15,
+        "Eindhoven",
+        "North Brabant",
+        1835.711
+      ],
+      [
+        -1693.404,
+        "Silivri",
+        "Istanbul",
+        1432.176
+      ],
+      [
+        -1722.948,
+        "Kutahya",
+        "Kutahya",
+        2514.912
+      ],
+      [
+        -1755.757,
+        "San Pedro de Macorís",
+        "San Pedro de Macorís",
+        8145.25
+      ],
+      [
+        -1758.894,
+        "Makurdi",
+        "Benue",
+        1786.356
+      ],
+      [
+        -1761.445,
+        "Mersin",
+        "Mersin",
+        1849.601
+      ],
+      [
+        -1823.378,
+        "Sincan",
+        "Ankara",
+        1703.748
+      ],
+      [
+        -1865.115,
+        "Ilorin",
+        "Kwara",
+        1087.785
+      ],
+      [
+        -1881.657,
+        "Panevezys",
+        "Panevezys",
+        1472.913
+      ],
+      [
+        -1896.443,
+        "Kampala",
+        "Kampala",
+        1221.385
+      ],
+      [
+        -1949.864,
+        "Presidente Dutra",
+        "Maranhão",
+        4888.77
+      ],
+      [
+        -1977.103,
+        "Warri",
+        "Delta",
+        1081.873
+      ],
+      [
+        -2062.92,
+        "Blumenau",
+        "Santa Catarina",
+        2646.246
+      ],
+      [
+        -2063.696,
+        "Heerlen",
+        "Limburg",
+        3987.547
+      ],
+      [
+        -2097.053,
+        "Hanoi",
+        "Thủ Dô Hà Nội",
+        11714.59
+      ],
+      [
+        -2141.437,
+        "Groningen",
+        "Groningen",
+        5409.212
+      ],
+      [
+        -2207.058,
+        "Bom Jesus da Lapa",
+        "Bahia",
+        2095.524
+      ],
+      [
+        -2207.928,
+        "Uskudar",
+        "Istanbul",
+        2313.132
+      ],
+      [
+        -2242.721,
+        "Dallas",
+        "Texas",
+        20740.195
+      ],
+      [
+        -2292.175,
+        "Bursa",
+        "Bursa",
+        2832.143
+      ],
+      [
+        -2315.831,
+        "Aurora",
+        "Illinois",
+        12261.857
+      ],
+      [
+        -2339.274,
+        "Caracas",
+        "Distrito Capital",
+        5179.498
+      ],
+      [
+        -2343.139,
+        "Indaial",
+        "Santa Catarina",
+        2970.745
+      ],
+      [
+        -2350.568,
+        "Bezerros",
+        "Pernambuco",
+        3118.912
+      ],
+      [
+        -2388.309,
+        "Kaunas",
+        "Kaunas",
+        1995.746
+      ],
+      [
+        -2549.204,
+        "Breda",
+        "North Brabant",
+        3409.802
+      ],
+      [
+        -2559.4,
+        "Yangon",
+        "Yangon",
+        33824.782
+      ],
+      [
+        -2564.99,
+        "Enugu",
+        "Enugu",
+        2091.322
+      ],
+      [
+        -2565.069,
+        "Daejeon",
+        "Daejeon",
+        4734.246
+      ],
+      [
+        -2587.024,
+        "Limoeiro do Norte",
+        "Ceará",
+        2214.596
+      ],
+      [
+        -2685.727,
+        "Lima",
+        "Lima (city)",
+        11393.984
+      ],
+      [
+        -2706.258,
+        "Jacksonville",
+        "Florida",
+        51210.431
+      ],
+      [
+        -2772.045,
+        "Bergen op Zoom",
+        "North Brabant",
+        3254.505
+      ],
+      [
+        -2775.317,
+        "Bulawayo",
+        "Bulawayo",
+        2699.359
+      ],
+      [
+        -2787.726,
+        "David",
+        "Chiriquí",
+        9506.449
+      ],
+      [
+        -2794.856,
+        "Adana",
+        "Adana",
+        3683.575
+      ],
+      [
+        -2803.184,
+        "Copenhagen",
+        "Hovedstaden",
+        5092.203
+      ],
+      [
+        -2807.666,
+        "Cork",
+        "Cork",
+        4784.601
+      ],
+      [
+        -2838.193,
+        "The Hague",
+        "South Holland",
+        7122.173
+      ],
+      [
+        -2938.227,
+        "Taizz",
+        "Ta'izz",
+        2032.173
+      ],
+      [
+        -2977.259,
+        "La Ceiba",
+        "Atlántida",
+        8522.981
+      ],
+      [
+        -2981.747,
+        "Santo Domingo",
+        "Santo Domingo",
+        73322.607
+      ],
+      [
+        -3025.867,
+        "Tilburg",
+        "North Brabant",
+        4868.559
+      ],
+      [
+        -3057.418,
+        "Le Mans",
+        "Pays de la Loire",
+        4154.64
+      ],
+      [
+        -3160.375,
+        "Reims",
+        "Champagne-Ardenne",
+        3830.872
+      ],
+      [
+        -3273.948,
+        "Carrefour",
+        "Ouest",
+        11152.505
+      ],
+      [
+        -3315.617,
+        "Wuhan",
+        "Hubei",
+        6393.052
+      ],
+      [
+        -3330.507,
+        "Cairns",
+        "Queensland",
+        8525.476
+      ],
+      [
+        -3346.493,
+        "San Antonio",
+        "Texas",
+        19109.633
+      ],
+      [
+        -3436.236,
+        "Sheffield",
+        "England",
+        6892.599
+      ],
+      [
+        -3573.761,
+        "Benin City",
+        "Edo",
+        2045.1
+      ],
+      [
+        -3858.231,
+        "Utrecht",
+        "Utrecht",
+        6422.915
+      ],
+      [
+        -3906.492,
+        "Belo Horizonte",
+        "Minas Gerais",
+        3508.08
+      ],
+      [
+        -3998.267,
+        "Auckland",
+        "Auckland",
+        20387.061
+      ],
+      [
+        -4026.855,
+        "Phoenix",
+        "Arizona",
+        14374.3
+      ],
+      [
+        -4104.119,
+        "Lisbon",
+        "Lisboa",
+        5718.54
+      ],
+      [
+        -4136.096,
+        "Zaria",
+        "Kaduna",
+        2790.448
+      ],
+      [
+        -4152.767,
+        "Açu",
+        "Rio Grande do Norte",
+        4174.67
+      ],
+      [
+        -4314.86,
+        "Port Harcourt",
+        "Rivers",
+        3123.437
+      ],
+      [
+        -4353.377,
+        "Burlington",
+        "North Carolina",
+        25997.03
+      ],
+      [
+        -4440.568,
+        "Kaduna",
+        "Kaduna",
+        3161.177
+      ],
+      [
+        -4484.743,
+        "Vilnius",
+        "Vilnius",
+        4799.025
+      ],
+      [
+        -4528.038,
+        "Bornova",
+        "Izmir",
+        3470.798
+      ],
+      [
+        -4734.552,
+        "Dublin",
+        "Dublin",
+        13635.731
+      ],
+      [
+        -4892.289,
+        "Canberra",
+        "Australian Capital Territory",
+        36103.996
+      ],
+      [
+        -4961.339,
+        "Mumbai",
+        "Maharashtra",
+        11351.059
+      ],
+      [
+        -4986.021,
+        "Ibadan",
+        "Oyo",
+        2920.004
+      ],
+      [
+        -5040.94,
+        "Seoul",
+        "Seoul",
+        14572.616
+      ],
+      [
+        -5271.025,
+        "Manukau City",
+        "Auckland",
+        16184.478
+      ],
+      [
+        -5298.966,
+        "Amsterdam",
+        "North Holland",
+        9408.037
+      ],
+      [
+        -5515.574,
+        "Bangkok",
+        "Bangkok",
+        76653.545
+      ],
+      [
+        -5622.004,
+        "San Miguelito",
+        "Panama",
+        14013.476
+      ],
+      [
+        -5739.45,
+        "Louisville",
+        "Kentucky",
+        14935.504
+      ],
+      [
+        -5851.701,
+        "Birmingham",
+        "England",
+        18190.781
+      ],
+      [
+        -5933.057,
+        "Salvador",
+        "Bahia",
+        5360.808
+      ],
+      [
+        -6622.511,
+        "Chicago",
+        "Illinois",
+        52535.083
+      ],
+      [
+        -6640.358,
+        "San Pedro Sula",
+        "Cortés",
+        20601.216
+      ],
+      [
+        -7237.398,
+        "Lancaster",
+        "Ohio",
+        10108.077
+      ],
+      [
+        -7390.481,
+        "Izmir",
+        "Izmir",
+        8312.517
+      ],
+      [
+        -7538.123,
+        "Panama City",
+        "Panama",
+        23215.455
+      ],
+      [
+        -8111.224,
+        "Buenos Aires",
+        "Buenos Aires",
+        32486.335
+      ],
+      [
+        -8285.616,
+        "Ankara",
+        "Ankara",
+        9875.594
+      ],
+      [
+        -9730.314,
+        "Houston",
+        "Texas",
+        72142.377
+      ],
+      [
+        -10161.89,
+        "Hanover",
+        "Lower Saxony",
+        13401.199
+      ],
+      [
+        -10241.907,
+        "Toulouse",
+        "Midi-Pyrénées",
+        14139.197
+      ],
+      [
+        -10578.113,
+        "Kano",
+        "Kano",
+        9092.948
+      ],
+      [
+        -11036.195,
+        "Stockholm",
+        "Stockholm",
+        20725.764
+      ],
+      [
+        -11417.022,
+        "Manila",
+        "National Capital",
+        125219.732
+      ],
+      [
+        -12178.904,
+        "Philadelphia",
+        "Pennsylvania",
+        110321.046
+      ],
+      [
+        -12494.304,
+        "Lahore",
+        "Punjab",
+        34165.998
+      ],
+      [
+        -14754.238,
+        "Tegucigalpa",
+        "Francisco Morazán",
+        50806.458
+      ],
+      [
+        -18727.982,
+        "Istanbul",
+        "Istanbul",
+        24972.926
+      ],
+      [
+        -24485.243,
+        "Lagos",
+        "Lagos",
+        16577.248
+      ]
+    ],
+    "configData": [
+     {
+        "type": "scatter",
+        "x": "State",
+        "y": "Sales",
+        "aggregate":"sum",
+        "hline": {
+          "value": 10000,
+          "color": "red",
+          "dashStyle": "line",
+          "label": {"text":"hline"}
+        },
+        "vline": {
+          "value": 10.5,
+          "color": "red",
+          "dashStyle": "line",
+          "label":{"text":"vline"}
+        },
+        "vband": {
+          "value": 10,
+          "position": "left",
+          "color": "red",
+          "label":{"text":"vbands"}
+        }
+      }
+    ],
+    "updateConfig": {
+      "xAxis-[0]-plotLines-[0]-label-text":"Label using Update Config key",
+      "legend-maxHeight": 40
+    }
+  }
+}

@@ -1,0 +1,219 @@
+{
+    "chart": {
+        "zoomType": "xy"
+    },
+    "legend": {
+        "maxHeight": 50
+    },
+    "credits": false,
+    "plotOptions": {},
+    "title": {
+        "text": ""
+    },
+    "xAxis": [
+        {
+            "categories": [
+                "First Class",
+                "Same Day",
+                "Second Class",
+                "Standard Class"
+            ]
+        }
+    ],
+    "yAxis": [
+        {
+            "title": {
+                "text": "Profit"
+            }
+        }
+    ],
+    "series": [
+        {
+            "xAxis": 0,
+            "yAxis": 0,
+            "name": "Comparison website",
+            "data": [
+                -44.35904,
+                81.702,
+                -2.664,
+                18.16
+            ],
+            "type": "line",
+            "tooltip": {
+                "formatter": "function() { return this.series.name + ': ' + this.y + '<br>'; }"
+            },
+            "marker": {
+                "radius": 0,
+                "symbol": "square"
+            },
+            "lineWidth": 2
+        },
+        {
+            "xAxis": 0,
+            "yAxis": 0,
+            "name": "Coupan site",
+            "data": [
+                19.824,
+                -63.54,
+                10.56,
+                4.62,
+                347.76,
+                -28.176,
+                44.16,
+                12.145199999999999,
+                -22.948,
+                26.46,
+                42.0,
+                9.96,
+                -2.918
+            ],
+            "type": "line",
+            "tooltip": {
+                "formatter": "function() { return this.series.name + ': ' + this.y + '<br>'; }"
+            },
+            "marker": {
+                "radius": 0,
+                "symbol": "square"
+            },
+            "lineWidth": 2
+        },
+        {
+            "xAxis": 0,
+            "yAxis": 0,
+            "name": "Direct through website",
+            "data": [
+                14.49,
+                36.3,
+                -11.58,
+                5.3,
+                8.04,
+                66.42,
+                246.24,
+                -225.84,
+                138.06,
+                28.98,
+                29.16,
+                2.34,
+                -559.356,
+                109.6113,
+                12.09,
+                23.6529,
+                31.47,
+                -14.54,
+                15.6,
+                -14.5764,
+                5.7594,
+                9.6632,
+                -4.818
+            ],
+            "type": "line",
+            "tooltip": {
+                "formatter": "function() { return this.series.name + ': ' + this.y + '<br>'; }"
+            },
+            "marker": {
+                "radius": 0,
+                "symbol": "square"
+            },
+            "lineWidth": 2
+        },
+        {
+            "xAxis": 0,
+            "yAxis": 0,
+            "name": "Social Media",
+            "data": [
+                23.904,
+                1.999,
+                48.36,
+                2.07,
+                1.02,
+                1038.42,
+                19.56,
+                8.94,
+                -33.3,
+                -3.64,
+                14.7582,
+                -4.248,
+                6.0,
+                20.1207,
+                3.6,
+                24.24,
+                0.51,
+                6.2208,
+                3.5529
+            ],
+            "type": "line",
+            "tooltip": {
+                "formatter": "function() { return this.series.name + ': ' + this.y + '<br>'; }"
+            },
+            "marker": {
+                "radius": 0,
+                "symbol": "square"
+            },
+            "lineWidth": 2
+        },
+        {
+            "xAxis": 0,
+            "yAxis": 0,
+            "name": "Third Party Marketplace",
+            "data": [
+                59.796,
+                53.07,
+                -17.1258,
+                29.436,
+                -137.349,
+                10.74,
+                28.08,
+                6.96,
+                -229.08,
+                108.468,
+                1.7904,
+                73.14,
+                61.908,
+                -97.74,
+                46.05,
+                2.9699999999999998,
+                7.5,
+                27.4856,
+                -4.77,
+                5.01,
+                0.88,
+                10.26,
+                213.6888,
+                146.76,
+                -533.7325,
+                111.774,
+                5.7780000000000005,
+                177.96,
+                28.3095,
+                64.0,
+                45.3488,
+                1.248,
+                12.24,
+                10.32,
+                8.4736,
+                15.3888,
+                4.3176,
+                12.12,
+                7.3872,
+                4.1125,
+                -6.5076
+            ],
+            "type": "line",
+            "tooltip": {
+                "formatter": "function() { return this.series.name + ': ' + this.y + '<br>'; }"
+            },
+            "marker": {
+                "radius": 0,
+                "symbol": "square"
+            },
+            "lineWidth": 2
+        }
+    ],
+    "boost": {
+        "enabled": true,
+        "useGPUTranslations": true
+    },
+    "accessibility": {
+        "enabled": false
+    }
+}
