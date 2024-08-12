@@ -24,8 +24,8 @@ This project provides a FastAPI-based API endpoint `/viz` that accepts a payload
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/highcharts-api.git
-   cd highcharts-api
+   git clone https://github.com/sahilsnghai/Highchart.git
+   cd Highcharts
    ```
 
 2. Create and activate a virtual environment:
