@@ -23,24 +23,24 @@ This project provides a FastAPI-based API endpoint `/viz` that accepts a payload
 ### Steps
 
 1. Clone the repository:
-   ```
+   ```bash
    git clone https://github.com/yourusername/highcharts-api.git
    cd highcharts-api
    ```
 
 2. Create and activate a virtual environment:
-   ```
+   ```bash
    python -m venv env
    source env/bin/activate  # On Windows, use `env\Scripts\activate`
    ```
 
 3. Install the required packages:
-   ```
+   ```bash
    pip install -r requirements.txt
    ```
 
 4. Start the FastAPI development server:
-   ```
+   ```bash
    uvicorn api.endpoint:app --reload
    ```
 
@@ -89,7 +89,7 @@ D:.
 
 After following the installation steps, you can start the FastAPI server with:
 
-```
+```bash
 uvicorn api.endpoint:app --reload
 ```
 
@@ -98,7 +98,7 @@ uvicorn api.endpoint:app --reload
 You can send a POST request to the `/viz` endpoint with a payload to receive a Highcharts configuration.
 
 Example:
-```
+```bash
 curl -X POST "http://127.0.0.1:8000/viz" -H "Content-Type: application/json" -d @config/example_payload.json
 ```
 
@@ -106,7 +106,7 @@ curl -X POST "http://127.0.0.1:8000/viz" -H "Content-Type: application/json" -d 
 
 To generate a chart using the provided data:
 
-```
+```bash
 python scripts/generate_chart.py
 ```
 
