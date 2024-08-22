@@ -116,8 +116,127 @@ python scripts/generate_chart.py
 
 - **Method**: POST
 - **Description**: Accepts a payload and returns a Highcharts configuration.
-- **Payload Example**: See `config/viz_examples.json`.
+- **Payload Example**:
+
+  ```json
+  {
+      "resultSet": [
+          [
+              "Southeast Asia",
+              59.796,
+              "Third Party Marketplace",
+              555.516
+          ],
+          [
+              "Central",
+              23.904,
+              "Social Media",
+              1076.004
+          ],
+          [
+              "EMEA",
+              53.07,
+              "Third Party Marketplace",
+              204.15
+          ],
+          [
+              "East",
+              19.824,
+              "Coupan site",
+              264.32
+          ],
+          [
+              "Southeast Asia",
+              -17.1258,
+              "Third Party Marketplace",
+              264.9942
+          ],
+          [
+              "Central Asia",
+              -63.54,
+              "Coupan site",
+              68.94
+          ],
+          [
+              "Southeast Asia",
+              29.436,
+              "Third Party Marketplace",
+              195.786
+          ],
+          [
+              "South",
+              1.999,
+              "Social Media",
+              31.984
+          ],
+          [
+              "Southeast Asia",
+              -137.349,
+              "Third Party Marketplace",
+              876.231
+          ],
+          [
+              "Central Asia",
+              10.74,
+              "Third Party Marketplace",
+              71.94
+          ],
+          [
+              "EMEA",
+              14.49,
+              "Direct through website",
+              51.84
+          ],
+          [
+              "South",
+              28.98,
+              "Direct through website",
+              193.41
+          ],
+          [
+              "South",
+              -97.74,
+              "Third Party Marketplace",
+              254.88
+          ]
+      ],
+      "headers": [
+          "Region",
+          "Profit",
+          "Channel",
+          "Sales"
+      ],
+      "configData": [
+          {
+              "type": "line",
+              "x": "Region",
+              "y": "Profit",
+              "aggregate": "sum",
+              "groupedOn": [
+                  "Channel",
+                  "Region"
+              ]
+          },
+          {
+              "type": "line",
+              "x": "Region",
+              "y": "Sales",
+              "aggregate": "sum",
+              "yopposite": true,
+              "groupedOn": [
+                  "Channel",
+                  "Region"
+              ]
+          }
+      ]
+  }
+  ```
+
 - **Response**: Highcharts configuration in JSON format.
+
+### Performance and Flexibility
+
+This API is optimized for speed, with a response time of under 50ms, and is capable of generating multiple charts simultaneously. By default, the `/viz` endpoint expects aggregated data, but if the user lacks pre-aggregated data, they can use the `aggregate` key to define the aggregation type and apply groupings based on the provided columns. Additionally, users can customize their charts by assigning specific colors to columns or individual values.
 
 ## Configuration
 
