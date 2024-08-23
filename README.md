@@ -24,8 +24,8 @@ This project provides a FastAPI-based API endpoint `/viz` that accepts a payload
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sahilsnghai/Highchart.git
-   cd Highcharts
+   git clone https://github.com/sahilsnghai/ChartCraft.git
+   cd ChartCraft
    ```
 
 2. Create and activate a virtual environment:
@@ -59,7 +59,7 @@ D:.
 │       data_models.py         # Pydantic models for request validation
 │
 ├───config
-│       chart_config.json      # Example of Highcharts configuration
+│       chart_config.json      # Example of s configuration
 │       example_payload.json   # Example of a single payload and its expected output
 │       viz_examples.json      # All possible payloads and data structure formats
 │
