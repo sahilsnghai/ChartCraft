@@ -15,7 +15,7 @@ from typing import Any
 
 
 
-def generate_chart_config(req_data: dict) -> dict:
+def generate_chart_config(req_data: dict, to_show: bool = False ) -> dict:
     """generate_chart_config
 
     Args:
@@ -30,6 +30,7 @@ def generate_chart_config(req_data: dict) -> dict:
             "color": "Category",
         },
         {"type": "line", "x": ["Channel"], "y": "Total Sales"},
+        to_show (bool) : to display chart on runtime.
     ]
 
     Returns:
@@ -44,7 +45,7 @@ def generate_chart_config(req_data: dict) -> dict:
             Thread(target=display,args=(json.dumps(chart_config, cls=DefaultEncoder),), daemon=True).start()
     """
     # Copying the Basic HighChart Chart Config so we don't modified the origrinal
-    to_show = req_data.get("to_show", False)
+    to_show = req_data.get("to_show", to_show)
     chart_config = deepcopy(CHART_CONFIG)
 
     # Creating a dataframe from the data in req: req_data[resultSet]
