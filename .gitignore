@@ -1,4 +1,32 @@
-env/
+# Python-generated files
 __pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
 
-.venv/
+# uv
+uv.lock
+
+# Virtual environments
+.venv
+
+# python
+.python-version
+
+
+# Vscode 
+.vscode
+
+# rough code
+older/
+
+# tests cases
+/tests
+/data
+
+# modules
+api
+core
+models

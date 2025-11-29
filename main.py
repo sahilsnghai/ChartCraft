@@ -1,13 +1,32 @@
 from fastapi import FastAPI
-from models.data_models import request
-from services.visualization import generate_chart_config
+from fastapi.middleware.cors import CORSMiddleware
 
-app = FastAPI()
+from app.api.routes import router as api_router
+from app.core.logging import set_up_logging
+
+logger = set_up_logging()
 
 
-@app.get("/viz")
-def read_root(req: request):
-    req: dict = req.model_dump()
-    generate_chart_config(req_data=req)
-    return True
+def create_app() -> FastAPI:
+    application = FastAPI(title="Lumenore Visualization API", version="1.0.0")
 
+    # CORS middleware
+    application.add_middleware(
+        CORSMiddleware,
+        allow_origins=["*"],  # Adjust as needed
+        allow_credentials=True,
+        allow_methods=["*"],
+        allow_headers=["*"],
+    )
+
+    application.include_router(api_router)
+
+    return application
+
+
+app = create_app()
+
+if __name__ == "__main__":
+    import uvicorn
+
+    uvicorn.run(app, host="127.0.0.1", port=8000)
