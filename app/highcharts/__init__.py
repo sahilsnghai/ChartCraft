@@ -42,7 +42,7 @@ from .charts import (
 )
 
 # Main generator function (backward compatible)
-from .viz_generator import generate_viz
+from .chartgenerator import generate_viz
 
 # Version information
 __version__ = "2.0.0"
