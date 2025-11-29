@@ -4,8 +4,8 @@ from pydantic import BaseModel, Field
 
 
 class ChartData(BaseModel):
-    resultSet: Optional[List[Dict[str, Any]]] = None
-    headers: Optional[List[Dict[str, Any]]] = (
+    resultSet: Optional[List[List]] = None
+    headers: Optional[List[str]] = (
         None  # Schema for polars, might be list of dicts or list of strings depending on usage.
     )
     # In app.py: schema=req_data['data']['headers']
