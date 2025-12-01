@@ -5,8 +5,8 @@ from fastapi import APIRouter, HTTPException, status
 
 from app.core.exceptions import error_response
 from app.core.logging import set_up_logging
-from app.models.schemas import ChartRequestPayload
 from app.highcharts.chartgenerator import generate_viz
+from app.models.schemas import ChartRequestPayload
 
 router = APIRouter()
 logger = set_up_logging()

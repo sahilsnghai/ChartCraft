@@ -14,11 +14,12 @@
 
 """constants.py File"""
 import json
-import polars as pl
 import os
 from os import path
 from os.path import abspath, dirname
 from typing import Any, Dict
+
+import polars as pl
 
 
 class ConstantsMeta(type):
@@ -130,6 +131,7 @@ def get_response(msg="", error=False, success=1):
         "error": error,
         "success": success,
     }
+
 
 def generate_data(measure=1, dimension=1):
     """

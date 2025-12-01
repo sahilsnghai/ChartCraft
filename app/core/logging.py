@@ -13,11 +13,13 @@
 # OF USING, MODIFYING OR DISTRIBUTING THIS SOFTWARE OR ITS DERIVATIVES.
 
 """main_logger.py File"""
-import sys
 import logging
 import logging.config
+import sys
 
-FORMATTER = logging.Formatter("[DEV] [%(levelname)s]: [%(asctime)s] [%(filename)s:%(lineno)d]] [%(message)s]")
+FORMATTER = logging.Formatter(
+    "[DEV] [%(levelname)s]: [%(asctime)s] [%(filename)s:%(lineno)d]] [%(message)s]"
+)
 
 
 def get_console_handler():
